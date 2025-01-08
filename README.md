@@ -14,13 +14,14 @@ This project is a Todo API built with FastAPI, allowing users to register accoun
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3.12.6
 
 ## Installation
 
 To install the project, follow these steps:
 
 1. **Create a Virtual Environment:**
+
    ```bash
    python -m venv venv
    ```
